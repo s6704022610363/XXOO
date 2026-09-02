@@ -1,0 +1,7 @@
+{
+  "name": "เกม XO (Tic-Tac-Toe 3x3)",
+  "description": "Web app สำหรับเล่นเกม XO (Tic-Tac-Toe) ขนาด 3x3 สำหรับสองคนสลับกัน พร้อมระบบกดยืนยันตาเดินและตรวจจับผู้ชนะ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
